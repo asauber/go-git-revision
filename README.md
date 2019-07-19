@@ -13,6 +13,15 @@ make
 ### To run
 
 ```
-make run
+$ make run
+Starting up with git revision da159998f0ce
+```
+
+Edit or add a file to the directory then,
+
+```
+$ touch newfile
+$ make run
+Starting up with git revision da159998f0ce-dirty
 ```
 

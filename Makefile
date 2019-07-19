@@ -1,5 +1,5 @@
 export GO111MODULE=on
 build:
 	sh build.sh
-run:
+run: build
 	@./go-git-revision
