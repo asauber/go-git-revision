@@ -6,7 +6,7 @@ This is useful for debugging. Try it out in your own go projects!
 
 ### Why and how
 
-This embeds the current git commit hash into your go binary as a static string, and prints it upon startup, so that at any time in the future you can relate the binary or it’s output to a specific git revision.
+This embeds the current git commit hash into your go binary as a static string, and prints it upon startup, so that at any time in the future you can relate the binary or its output to a specific git revision.
 
 ### To build
 
